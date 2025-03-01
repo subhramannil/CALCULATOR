@@ -1,3 +1,7 @@
+from art import logo
+print(logo)
+
+
 a=int(input("What's the first number: "))
 c=0
 def sec():
